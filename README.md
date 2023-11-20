@@ -4,12 +4,14 @@
 
 I'm passionate about technology and innovation and would like to get into cybersecurity once my program is over. From coding to exploring innovative solutions, I'm on a journey to expand my knowledge and contribute to the ever-evolving field of computer science. Let's connect and explore the possibilities together!
 
-## Connect with me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/andres-malaga-4babb1184/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andres-malaga-4babb1184/" height="30" width="40" />
+  </a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/andres-malaga-4babb1184/)
-
-## Skills
-
+<h3 align="left">Skills:</h3>
 <div style="background-color: #00979D; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="30" height="30"/>
   <span style="color: white; margin-left: 10px;">Arduino</span>
@@ -27,8 +29,7 @@ I'm passionate about technology and innovation and would like to get into cybers
 
 <!-- Add more skills as needed -->
 
-## Languages
-
+<h3 align="left">Languages:</h3>
 <div style="background-color: #E44D26; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30"/>
   <span style="color: white; margin-left: 10px;">HTML</span>
@@ -45,6 +46,7 @@ I'm passionate about technology and innovation and would like to get into cybers
 </div>
 
 <!-- Add more languages as needed -->
+
 
 <!--
 **Amalaga19/Amalaga19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
