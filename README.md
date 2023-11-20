@@ -1,15 +1,31 @@
-### Hi! I'm Andres
-### About Me
+# Hi! I'm Andres
+
+## About Me
+
 I'm passionate about technology and innovation and would like to get into cybersecurity once my program is over. From coding to exploring innovative solutions, I'm on a journey to expand my knowledge and contribute to the ever-evolving field of computer science. Let's connect and explore the possibilities together!
 
+## Connect with me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[LinkedIn](https://www.linkedin.com/in/andres-malaga-4babb1184/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Languages and Tools
 
+- [Arduino](https://www.arduino.cc/)
+  ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
+- [CSS](https://www.w3schools.com/css/)
+  ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+- [Git](https://git-scm.com/)
+  ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+- [HTML](https://www.w3.org/html/)
+  ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+- [Node.js](https://nodejs.org)
+  ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+- [PostgreSQL](https://www.postgresql.org)
+  ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
+- [Python](https://www.python.org)
+  ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 
 <!--
 **Amalaga19/Amalaga19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
