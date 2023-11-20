@@ -1,4 +1,5 @@
 ### Hi there 👋
+👋 Hello! I'm [Andres Malaga], a Computer Science master's degree student at IE University. Currently immersed in the dynamic world of technology, I'm passionate about [technology and innovation and would like to get into cybersecurity once my program is over]. From coding to exploring innovative solutions, I'm on a journey to expand my knowledge and contribute to the ever-evolving field of computer science. Let's connect and explore the possibilities together!
 
 <!--
 **Amalaga19/Amalaga19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
