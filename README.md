@@ -6,10 +6,10 @@ I'm passionate about technology and innovation and would like to get into cybers
 
 ## Some Projects:
 
-### Portfolio Tracker
-### Country Guessing Game
-### ShapeChat
-### Webcam Video Manipulation (Multiple Users)
+#### Portfolio Tracker
+#### Country Guessing Game
+#### ShapeChat
+#### Webcam Video Manipulation (Multiple Users)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
