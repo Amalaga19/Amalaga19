@@ -4,12 +4,12 @@
 
 I'm passionate about technology and innovation and would like to get into cybersecurity once my program is over. From coding to exploring innovative solutions, I'm on a journey to expand my knowledge and contribute to the ever-evolving field of computer science. Let's connect and explore the possibilities together!
 
-##Some Projects:
+## Some Projects:
 
-###Portfolio Tracker
-###Country Guessing Game
-###ShapeChat
-###Webcam Video Manipulation (Multiple Users)
+### Portfolio Tracker
+### Country Guessing Game
+### ShapeChat
+### Webcam Video Manipulation (Multiple Users)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
