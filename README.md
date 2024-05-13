@@ -7,7 +7,7 @@ I'm passionate about technology and innovation and would like to get into cybers
 ## Some Projects:
 
 #### Portfolio Tracker
-  A react app with a python (flask) backend created for my program's Capstone Project class. The code can be found [here](https://github.com/Amalaga19/MCSBT-Capstone).
+  A react app with a python (flask) backend created for my program's Capstone Project class. The code can be found [here](https://github.com/Amalaga19/MCSBT-Capstone) along with usage instructions.
 #### Country Guessing Game
   A website developed as the final assignment for my Dynamic Web Development class (Spring 2023), it uses Node.JS to load data from a JSON file, providing clues about a specific country the user has to guess. Click [here](https://github.com/Amalaga19/Web-Dev-Final) to see the code, and [here](https://efficacious-pricey-kite.glitch.me/) to access the website, which is hosted on glitch.
 #### ShapeChat
