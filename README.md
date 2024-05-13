@@ -13,7 +13,7 @@ I'm passionate about technology and innovation and would like to get into cybers
 #### ShapeChat
   The final project of my Live Web class (Spring 2022), it features a chat app using websockets in which a user is allowed to choose the color of the text of the message they write and the color of its surrounding bubble. The code is found [here](https://github.com/Amalaga19/ShapeChat/tree/main) and the website is hosted on glitch, available [here](https://liveweb-final-andres.glitch.me/).
 #### Webcam Video Manipulation (Multiple Users)
-  This is a website that uses p5lm (p5 Live Media) to broadcast a 10-second recording of the user's webcam feed, along with three sliders that modify the user's image's red, green and blue channels, allowing users to send the video of their webcam feeds with distorted colors. This was created on the p5 web editor and the code can be found [here](https://editor.p5js.org/amalaga19/sketches/oSIv0SJ12), the code can be ran [here](https://editor.p5js.org/amalaga19/full/oSIv0SJ12).
+  A website that uses p5lm (p5 Live Media) to broadcast a 10-second recording of the user's webcam feed to other currently connected users, along with three sliders that modify the user's image's red, green and blue channels, allowing users to send the video of their webcam feeds with distorted colors. This was created on the p5 web editor and the code can be found [here](https://editor.p5js.org/amalaga19/sketches/oSIv0SJ12), the code can be ran [here](https://editor.p5js.org/amalaga19/full/oSIv0SJ12).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
