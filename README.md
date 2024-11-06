@@ -4,6 +4,9 @@
 
 I recently graduated from IE University's Master in Computer Science and Business Technology (MCSBT), I'm passionate about technology and innovation and am looking to start a career in the tech sector, with a special interest in cloud security and software architecture. From coding to exploring innovative solutions, I'm on a journey to expand my knowledge and contribute to the ever-evolving field of computer science. Let's connect and explore the possibilities together!
 
+### Currently Working On:
+  Getting certified in AWS and GCP!
+
 ## Some Projects:
 #### Project Helios
   A web app built using a next.js frontend and a python (flask) backend connected to an MSSQL database developed as my program's Corporate (Final) Project in which the user can obtain key information of all businesses within a specific radius of a point in a map they set. This project was recognized as the best Corporate Project of my Master's program's September 2023 intake. The code can be found [here](https://github.com/Amalaga19/Project-Helios) along with usage instructions and a link to the deployed version (no longer active).
