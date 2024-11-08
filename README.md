@@ -27,7 +27,7 @@ I recently graduated from IE University's Master in Computer Science and Busines
 </p>
 
 <h3 align="left">Skills:</h3>
-
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 <div style="background-color: #00979D; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="30" height="30"/>
   <span style="color: white; margin-left: 10px;">Arduino</span>
@@ -66,6 +66,7 @@ I recently graduated from IE University's Master in Computer Science and Busines
 <div style="background-color: #326CE5; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" alt="Kubernetes" width="30" height="30"/>
   <span style="color: white; margin-left: 10px;">P5.js</span>
+</div>
 </div>
 
 <!-- Add more skills as needed -->
