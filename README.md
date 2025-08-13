@@ -2,10 +2,10 @@
 
 ## About Me
 
-I recently graduated from IE University's Master in Computer Science and Business Technology (MCSBT), I'm passionate about technology and innovation and am looking to start a career in the tech sector, with a special interest in cloud security and software architecture. From coding to exploring innovative solutions, I'm on a journey to expand my knowledge and contribute to the ever-evolving field of computer science. Let's connect and explore the possibilities together!
+I recently graduated from IE University's Master in Computer Science and Business Technology (MCSBT), I'm passionate about technology and innovation and am looking to start a career in the tech sector, with a special interest in cloud computing (I recently obtained certifications for AWS and GCP) and software architecture. From coding to exploring innovative solutions, I'm on a journey to expand my knowledge and contribute to the ever-evolving field of computer science. Let's connect and explore the possibilities together!
 
 ### Currently Working On:
-  Getting certified in AWS and GCP.
+  A new project, TBA.
 
 ## Some Projects:
 #### Project Helios
